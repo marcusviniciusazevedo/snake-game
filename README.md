@@ -1,4 +1,4 @@
-# Criação de uma página de login do Twitter
+# Criação de Snake Game
 
 Proposta de fazer um jogo arcade simples.
 
